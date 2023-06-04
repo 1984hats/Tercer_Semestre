@@ -1,10 +1,15 @@
-05/24/23 04:17:54 PM -- DEBUG -- [logger_base.py | línea: 13]: Mensaje de debug
-05/24/23 04:17:54 PM -- INFO -- [logger_base.py | línea: 14]: Mensaje de info
-05/24/23 04:17:54 PM -- WARNING -- [logger_base.py | línea: 15]: Mensaje de warning
-05/24/23 04:17:54 PM -- ERROR -- [logger_base.py | línea: 16]: Mensaje de error
-05/24/23 04:17:54 PM -- CRITICAL -- [logger_base.py | línea: 17]: Mensaje crítico
-05/24/23 04:19:20 PM -- DEBUG -- [logger_base.py | línea: 13]: Mensaje de debug
-05/24/23 04:19:20 PM -- INFO -- [logger_base.py | línea: 14]: Mensaje de info
-05/24/23 04:19:20 PM -- WARNING -- [logger_base.py | línea: 15]: Mensaje de warning
-05/24/23 04:19:20 PM -- ERROR -- [logger_base.py | línea: 16]: Mensaje de error
-05/24/23 04:19:20 PM -- CRITICAL -- [logger_base.py | línea: 17]: Mensaje crítico
+01:03:17 AM:DEBUG [logger_base.py:14] Mensaje a nivel debug
+01:03:17 AM:INFO [logger_base.py:15] Mensaje a nivel info
+01:03:17 AM:WARNING [logger_base.py:16] Mensaje a nivel warning
+01:03:17 AM:ERROR [logger_base.py:17] Mensaje a nivel error
+01:03:17 AM:CRITICAL [logger_base.py:18] Mnesaje a nivel critical
+12:05:44 AM:DEBUG [logger_base.py:14] Mensaje a nivel debug
+12:05:44 AM:INFO [logger_base.py:15] Mensaje a nivel info
+12:05:44 AM:WARNING [logger_base.py:16] Mensaje a nivel warning
+12:05:44 AM:ERROR [logger_base.py:17] Mensaje a nivel error
+12:05:44 AM:CRITICAL [logger_base.py:18] Mnesaje a nivel critical
+01:49:57 PM:DEBUG [logger_base.py:14] Mensaje a nivel debug
+01:49:57 PM:INFO [logger_base.py:15] Mensaje a nivel info
+01:49:57 PM:WARNING [logger_base.py:16] Mensaje a nivel warning
+01:49:57 PM:ERROR [logger_base.py:17] Mensaje a nivel error
+01:49:57 PM:CRITICAL [logger_base.py:18] Mnesaje a nivel critical
