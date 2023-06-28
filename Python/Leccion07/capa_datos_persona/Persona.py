@@ -1,5 +1,6 @@
 from logger_base import log
 
+
 class Persona:
     def __init__(self, id_persona, nombre, apellido, email):
         self.id_persona = id_persona
@@ -48,13 +49,12 @@ class Persona:
     def email(self, email):
         self._email = email
 
-
     if __name__ == '__main__':
-        persona1 = Persona(1, 'Juan', 'Perez','jperez@mail.com')
+        persona1 = Persona(1, 'Juan', 'Perez', 'jperez@mail.com')
         log.debug(persona1)
         persona2 = Persona(nombre='Jose', apellido='Lepez', email='ljose@mail.com')
         log.debug(persona2)
-        persona1 = Persona(id_persona = 1)
+        persona1 = Persona(id_persona=1)
         log.debug(persona2)
-        persona3 = Persona(id_persona = 1)
+        persona3 = Persona(id_persona=1)
         log.debug(persona1)
